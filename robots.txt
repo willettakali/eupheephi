@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohshohvoh.gabrielajocson.com/sitemap.xml
